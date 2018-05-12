@@ -1,0 +1,33 @@
+_repo: The-Idea-of-God-in-Early-Religions_25338
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25338-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jevons, F. B. (Frank Byron)
+    aliases:
+    - Jevons, Frank B.
+    - Jevons, Frank Byron
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '31260'
+    url: http://www.gutenberg.org/2009/agents/31260
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Byron_Jevons
+description: Preface; Bibliography; 1. Introduction; 2. The idea of God in mythology;
+  3. T idea of God in worship; 4. The idea of God in prayer; 5. The idea and being
+  of God; Index.
+gutenberg_issued: '2008-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25338'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Religion'
+- !lcsh 'God'
+title: The Idea of God in Early Religions
+url: http://www.gutenberg.org/ebooks/25338
